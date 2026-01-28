@@ -1,4 +1,4 @@
-Jawaban Tugas Analisis 5:
+# Jawaban Tugas Analisis 5
 
 Melanggar Kontrak: Jika method serang dihapus dari Hero, akan muncul Error: TypeError: Can't instantiate abstract class Hero with abstract method serang.
 

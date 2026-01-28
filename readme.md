@@ -18,3 +18,6 @@ Keuntungan: Memudahkan maintenance dan pengembangan. Jika ada 100 jenis hero bar
 Konsistensi Penamaan: Jika nama method di Archer diubah jadi tembak_panah, akan terjadi Error AttributeError saat loop berjalan pada giliran Archer.
 
 Mengapa harus sama? Karena Polymorphism bekerja dengan prinsip "Panggil nama yang sama, hasil beda". Pemanggil (loop) hanya tahu perintah serang(). Jika namanya beda, perintah itu tidak dikenali.
+
+
+Jawaban Untuk pertanyaan 1-4 ada di file itu tersendiri
